@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Euphoria Script
+- Font Author: Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved Font Name "Euphoria Script"
+- Font Source: http://fonts.gstatic.com/s/euphoriascript/v11/mFTpWb0X2bLb_cx6To2B8GpKoD5ak_ZT1D8x7Q.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
